@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLP
 
 ## Requirements:
 
-* [BrickMMO](https](https://brickmmo.com/))
+* [BrickMMO](https://brickmmo.com/)
 * [LEGO™ Mindstorms™](https://www.lego.com/en-ca/categories/coding-for-kids)
 * [LEGO™ Education](https://education.lego.com/en-us/)
 
