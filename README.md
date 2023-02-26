@@ -12,6 +12,6 @@ https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLP
 * [LEGO™ Mindstorms™](https://www.lego.com/en-ca/categories/coding-for-kids)
 * [LEGO™ Education](https://education.lego.com/en-us/)
 
-<a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
 </a>
