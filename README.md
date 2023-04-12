@@ -33,7 +33,7 @@ https://docs.google.com/presentation/d/1huKFnm_8q7gQQFv6ynBVG4fm38fjTWHPU_v_qM_A
 
 ## Radio
 
-This hackathon requires students to work with [Humber Radio]() students to develope a radio broadcasting schedule that can be ececuted using a series of AI. Machine Learning, and APIs.
+This hackathon requires students to work with [Humber Radio]() students to develope a radio broadcasting schedule that can be executed using a series of AI, Machine Learning, and APIs.
 
 Make a copy of this Google document and fill out each section:
 
