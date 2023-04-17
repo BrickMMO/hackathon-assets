@@ -46,7 +46,7 @@ This project utlizes [ChatGPT](https://openai.com/) and the [Google Text-to-Spee
 ## Repo Resources
 
 * [BrickMMO](https://brickmmo.com/)
-* [LEGO® Mindstorms™](https://www.lego.com/en-ca/categories/coding-for-kids)
+* [LEGO® Mindstorms®](https://www.lego.com/en-ca/categories/coding-for-kids)
 * [LEGO® Education](https://education.lego.com/en-us/)
 
 <a href="https://brickmmo.com">
