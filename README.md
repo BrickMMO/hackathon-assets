@@ -2,7 +2,7 @@
 
 A library of hackathon assets and results for the BrickMMO Smart City. 
 
-## Set Module
+## Set Modules
 
 This hackathon is to pick a LEGO® set and design a plan to integtrate the set into the BrickMMO Smart City.  
 
@@ -30,6 +30,16 @@ https://docs.google.com/document/d/1Mjogs2wPlWAphyKPQJuxql6a2OZJ8O7cIJSr6MD8uK4/
 And for the presentation:
 
 https://docs.google.com/presentation/d/1huKFnm_8q7gQQFv6ynBVG4fm38fjTWHPU_v_qM_AWXI/edit?usp=share_link
+
+## Radio
+
+This hackathon requires students to work with [Humber Radio]() students to develope a radio broadcasting schedule that can be executed using a series of AI, Machine Learning, and APIs.
+
+Make a copy of this Google document and fill out each section:
+
+https://docs.google.com/document/d/1fTCklD9wx8m5B0b1Wu7auocj2L-sJieUg8eaddARFeU/edit?usp=share_link
+
+This project utlizes [ChatGPT](https://openai.com/) and the [Google Text-to-Speech API](https://cloud.google.com/text-to-speech).
 
 ***
 
