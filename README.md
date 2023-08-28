@@ -1,6 +1,6 @@
 # BrickMMO Hackathon Assets
 
-> ** Warning**  
+> **Warning**  
 > This repo is no longer in use. 
 
 ---
