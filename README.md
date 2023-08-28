@@ -1,10 +1,7 @@
 # BrickMMO Hackathon Assets
 
-A library of hackathon assets for the BrickMMO project. Hackathons currely include:
-
-* [Radio Hackathon](https://github.com/BrickMMO/hackathon-radio)
-* [Set Hackathon](https://github.com/BrickMMO/hackathon-set)
-* [System Hackathon](https://github.com/BrickMMO/hackathon-system)
+> ** Warning**
+> This repo is no longer in use. 
 
 ---
 
