@@ -1,5 +1,8 @@
 # BrickMMO Hackathon Assets
 
+> **Warning**  
+> This repo is no longer in use. Each hackathon has an individual repo.
+
 A library of hackathon assets and results for the BrickMMO Smart City. 
 
 ## Set Modules
