@@ -1,6 +1,6 @@
 # BrickMMO Hackathon Assets
 
-> **Warning**  
+> [!Warning]  
 > This repo is no longer in use. 
 
 A library of hackathon assets and results for the BrickMMO Smart City.
